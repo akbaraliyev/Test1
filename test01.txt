@@ -7,3 +7,4 @@ int void(main)
 	printf("Hello, world!");
 
 }
+Here is good:>
